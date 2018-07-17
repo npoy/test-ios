@@ -21,6 +21,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.example.myapp",
       "supportsTablet": true
     },
     "android": {
